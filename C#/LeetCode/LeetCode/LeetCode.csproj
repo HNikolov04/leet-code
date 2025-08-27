@@ -11,8 +11,4 @@
     <PackageReference Include="NUnit" Version="4.4.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Challenges\0066-plus-one.cs\" />
-  </ItemGroup>
-
 </Project>
